@@ -28,3 +28,4 @@ Saya seorang pelajar di ULBI akan menginjak semester 5. saat ini hobi saya adala
 
 * Belakang
 
+![cover_belakang](https://github.com/FarhanRizkiM/BukuPakarbi/assets/110893795/24234cdc-9e53-4d00-9768-d8e9a2b72fc1)
