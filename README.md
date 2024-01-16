@@ -6,7 +6,7 @@ Buku ini menghadirkan panduan praktis dan komprehensif untuk penerapan sistem au
 
 * Penulis Utama : 
 
-
+![penulis_1](https://github.com/FarhanRizkiM/BukuPakarbi/assets/110893795/18cae2ae-9161-41e6-9ef2-58e029653ae3)
 
 * Biografi Penulis Utama 
 
@@ -14,7 +14,7 @@ Perkenalkan nama saya Farhan Rizki Maulana, lahir di Jakarta 4 Mei 2003, tinggal
 
 * Penulis 2 : 
 
-
+![penulis_2](https://github.com/FarhanRizkiM/BukuPakarbi/assets/110893795/f143a821-886b-417d-8f3a-12b2ee258466)
 
 * Biografi Penulis 2 
 
@@ -24,7 +24,7 @@ Saya seorang pelajar di ULBI akan menginjak semester 5. saat ini hobi saya adala
 
 * Depan
 
-
+![cover_depan](https://github.com/FarhanRizkiM/BukuPakarbi/assets/110893795/b311e4a0-efdd-4b06-9e5c-0d479f932941)
 
 * Belakang
 
