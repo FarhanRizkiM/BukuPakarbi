@@ -6,7 +6,7 @@ Buku ini menghadirkan panduan praktis dan komprehensif untuk penerapan sistem au
 
 * Penulis Utama : 
 
-![penulis_1](https://github.com/FarhanRizkiM/BukuPakarbi/assets/110893795/18cae2ae-9161-41e6-9ef2-58e029653ae3)
+![penulis_1](https://github.com/FarhanRizkiM/BukuPakarbi/assets/110893795/cd9f6cd8-3fc0-42da-aaef-c52f077d4910)
 
 * Biografi Penulis Utama 
 
